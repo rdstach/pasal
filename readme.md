@@ -5,6 +5,17 @@ This project is related to [https://github.com/drepram/bapa](https://github.com/
 
 Let me explains the directories and the files in this project.
 
+## Installing
+> First, we have to clone the project into machine
+
+```shell
+$ git clone https://github.com/drepram/pasal
+$ cd pasal
+$ yarn install
+```
+
+And we're good to go.
+
 ### `TESTAMENTS/` || JSON Files
 
 ```
