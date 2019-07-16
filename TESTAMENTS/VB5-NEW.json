@@ -1,0 +1,1094 @@
+[
+    [{
+        "verse": "Matius 1",
+        "book": "Matius",
+        "verseNumber": "1"
+    }, {
+        "verse": "Matius 2",
+        "book": "Matius",
+        "verseNumber": "2"
+    }, {
+        "verse": "Matius 3",
+        "book": "Matius",
+        "verseNumber": "3"
+    }, {
+        "verse": "Matius 4",
+        "book": "Matius",
+        "verseNumber": "4"
+    }, {
+        "verse": "Matius 5",
+        "book": "Matius",
+        "verseNumber": "5"
+    }],
+    [{
+        "verse": "Matius 6",
+        "book": "Matius",
+        "verseNumber": "6"
+    }, {
+        "verse": "Matius 7",
+        "book": "Matius",
+        "verseNumber": "7"
+    }, {
+        "verse": "Matius 8",
+        "book": "Matius",
+        "verseNumber": "8"
+    }, {
+        "verse": "Matius 9",
+        "book": "Matius",
+        "verseNumber": "9"
+    }, {
+        "verse": "Matius 10",
+        "book": "Matius",
+        "verseNumber": "10"
+    }],
+    [{
+        "verse": "Matius 11",
+        "book": "Matius",
+        "verseNumber": "11"
+    }, {
+        "verse": "Matius 12",
+        "book": "Matius",
+        "verseNumber": "12"
+    }, {
+        "verse": "Matius 13",
+        "book": "Matius",
+        "verseNumber": "13"
+    }, {
+        "verse": "Matius 14",
+        "book": "Matius",
+        "verseNumber": "14"
+    }, {
+        "verse": "Matius 15",
+        "book": "Matius",
+        "verseNumber": "15"
+    }],
+    [{
+        "verse": "Matius 16",
+        "book": "Matius",
+        "verseNumber": "16"
+    }, {
+        "verse": "Matius 17",
+        "book": "Matius",
+        "verseNumber": "17"
+    }, {
+        "verse": "Matius 18",
+        "book": "Matius",
+        "verseNumber": "18"
+    }, {
+        "verse": "Matius 19",
+        "book": "Matius",
+        "verseNumber": "19"
+    }, {
+        "verse": "Matius 20",
+        "book": "Matius",
+        "verseNumber": "20"
+    }],
+    [{
+        "verse": "Matius 21",
+        "book": "Matius",
+        "verseNumber": "21"
+    }, {
+        "verse": "Matius 22",
+        "book": "Matius",
+        "verseNumber": "22"
+    }, {
+        "verse": "Matius 23",
+        "book": "Matius",
+        "verseNumber": "23"
+    }, {
+        "verse": "Matius 24",
+        "book": "Matius",
+        "verseNumber": "24"
+    }, {
+        "verse": "Matius 25",
+        "book": "Matius",
+        "verseNumber": "25"
+    }],
+    [{
+        "verse": "Matius 26",
+        "book": "Matius",
+        "verseNumber": "26"
+    }, {
+        "verse": "Matius 27",
+        "book": "Matius",
+        "verseNumber": "27"
+    }, {
+        "verse": "Matius 28",
+        "book": "Matius",
+        "verseNumber": "28"
+    }, {
+        "verse": "Markus 1",
+        "book": "Markus",
+        "verseNumber": "1"
+    }, {
+        "verse": "Markus 2",
+        "book": "Markus",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "Markus 3",
+        "book": "Markus",
+        "verseNumber": "3"
+    }, {
+        "verse": "Markus 4",
+        "book": "Markus",
+        "verseNumber": "4"
+    }, {
+        "verse": "Markus 5",
+        "book": "Markus",
+        "verseNumber": "5"
+    }, {
+        "verse": "Markus 6",
+        "book": "Markus",
+        "verseNumber": "6"
+    }, {
+        "verse": "Markus 7",
+        "book": "Markus",
+        "verseNumber": "7"
+    }],
+    [{
+        "verse": "Markus 8",
+        "book": "Markus",
+        "verseNumber": "8"
+    }, {
+        "verse": "Markus 9",
+        "book": "Markus",
+        "verseNumber": "9"
+    }, {
+        "verse": "Markus 10",
+        "book": "Markus",
+        "verseNumber": "10"
+    }, {
+        "verse": "Markus 11",
+        "book": "Markus",
+        "verseNumber": "11"
+    }, {
+        "verse": "Markus 12",
+        "book": "Markus",
+        "verseNumber": "12"
+    }],
+    [{
+        "verse": "Markus 13",
+        "book": "Markus",
+        "verseNumber": "13"
+    }, {
+        "verse": "Markus 14",
+        "book": "Markus",
+        "verseNumber": "14"
+    }, {
+        "verse": "Markus 15",
+        "book": "Markus",
+        "verseNumber": "15"
+    }, {
+        "verse": "Markus 16",
+        "book": "Markus",
+        "verseNumber": "16"
+    }, {
+        "verse": "Lukas 1",
+        "book": "Lukas",
+        "verseNumber": "1"
+    }],
+    [{
+        "verse": "Lukas 2",
+        "book": "Lukas",
+        "verseNumber": "2"
+    }, {
+        "verse": "Lukas 3",
+        "book": "Lukas",
+        "verseNumber": "3"
+    }, {
+        "verse": "Lukas 4",
+        "book": "Lukas",
+        "verseNumber": "4"
+    }, {
+        "verse": "Lukas 5",
+        "book": "Lukas",
+        "verseNumber": "5"
+    }, {
+        "verse": "Lukas 6",
+        "book": "Lukas",
+        "verseNumber": "6"
+    }],
+    [{
+        "verse": "Lukas 7",
+        "book": "Lukas",
+        "verseNumber": "7"
+    }, {
+        "verse": "Lukas 8",
+        "book": "Lukas",
+        "verseNumber": "8"
+    }, {
+        "verse": "Lukas 9",
+        "book": "Lukas",
+        "verseNumber": "9"
+    }, {
+        "verse": "Lukas 10",
+        "book": "Lukas",
+        "verseNumber": "10"
+    }, {
+        "verse": "Lukas 11",
+        "book": "Lukas",
+        "verseNumber": "11"
+    }],
+    [{
+        "verse": "Lukas 12",
+        "book": "Lukas",
+        "verseNumber": "12"
+    }, {
+        "verse": "Lukas 13",
+        "book": "Lukas",
+        "verseNumber": "13"
+    }, {
+        "verse": "Lukas 14",
+        "book": "Lukas",
+        "verseNumber": "14"
+    }, {
+        "verse": "Lukas 15",
+        "book": "Lukas",
+        "verseNumber": "15"
+    }, {
+        "verse": "Lukas 16",
+        "book": "Lukas",
+        "verseNumber": "16"
+    }],
+    [{
+        "verse": "Lukas 17",
+        "book": "Lukas",
+        "verseNumber": "17"
+    }, {
+        "verse": "Lukas 18",
+        "book": "Lukas",
+        "verseNumber": "18"
+    }, {
+        "verse": "Lukas 19",
+        "book": "Lukas",
+        "verseNumber": "19"
+    }, {
+        "verse": "Lukas 20",
+        "book": "Lukas",
+        "verseNumber": "20"
+    }, {
+        "verse": "Lukas 21",
+        "book": "Lukas",
+        "verseNumber": "21"
+    }],
+    [{
+        "verse": "Lukas 22",
+        "book": "Lukas",
+        "verseNumber": "22"
+    }, {
+        "verse": "Lukas 23",
+        "book": "Lukas",
+        "verseNumber": "23"
+    }, {
+        "verse": "Lukas 24",
+        "book": "Lukas",
+        "verseNumber": "24"
+    }, {
+        "verse": "Yohanes 1",
+        "book": "Yohanes",
+        "verseNumber": "1"
+    }, {
+        "verse": "Yohanes 2",
+        "book": "Yohanes",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "Yohanes 3",
+        "book": "Yohanes",
+        "verseNumber": "3"
+    }, {
+        "verse": "Yohanes 4",
+        "book": "Yohanes",
+        "verseNumber": "4"
+    }, {
+        "verse": "Yohanes 5",
+        "book": "Yohanes",
+        "verseNumber": "5"
+    }, {
+        "verse": "Yohanes 6",
+        "book": "Yohanes",
+        "verseNumber": "6"
+    }, {
+        "verse": "Yohanes 7",
+        "book": "Yohanes",
+        "verseNumber": "7"
+    }],
+    [{
+        "verse": "Yohanes 8",
+        "book": "Yohanes",
+        "verseNumber": "8"
+    }, {
+        "verse": "Yohanes 9",
+        "book": "Yohanes",
+        "verseNumber": "9"
+    }, {
+        "verse": "Yohanes 10",
+        "book": "Yohanes",
+        "verseNumber": "10"
+    }, {
+        "verse": "Yohanes 11",
+        "book": "Yohanes",
+        "verseNumber": "11"
+    }, {
+        "verse": "Yohanes 12",
+        "book": "Yohanes",
+        "verseNumber": "12"
+    }],
+    [{
+        "verse": "Yohanes 13",
+        "book": "Yohanes",
+        "verseNumber": "13"
+    }, {
+        "verse": "Yohanes 14",
+        "book": "Yohanes",
+        "verseNumber": "14"
+    }, {
+        "verse": "Yohanes 15",
+        "book": "Yohanes",
+        "verseNumber": "15"
+    }, {
+        "verse": "Yohanes 16",
+        "book": "Yohanes",
+        "verseNumber": "16"
+    }, {
+        "verse": "Yohanes 17",
+        "book": "Yohanes",
+        "verseNumber": "17"
+    }],
+    [{
+        "verse": "Yohanes 18",
+        "book": "Yohanes",
+        "verseNumber": "18"
+    }, {
+        "verse": "Yohanes 19",
+        "book": "Yohanes",
+        "verseNumber": "19"
+    }, {
+        "verse": "Yohanes 20",
+        "book": "Yohanes",
+        "verseNumber": "20"
+    }, {
+        "verse": "Yohanes 21",
+        "book": "Yohanes",
+        "verseNumber": "21"
+    }, {
+        "verse": "Kisah Para Rasul 1",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "1"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 2",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "2"
+    }, {
+        "verse": "Kisah Para Rasul 3",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "3"
+    }, {
+        "verse": "Kisah Para Rasul 4",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "4"
+    }, {
+        "verse": "Kisah Para Rasul 5",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "5"
+    }, {
+        "verse": "Kisah Para Rasul 6",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "6"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 7",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "7"
+    }, {
+        "verse": "Kisah Para Rasul 8",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "8"
+    }, {
+        "verse": "Kisah Para Rasul 9",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "9"
+    }, {
+        "verse": "Kisah Para Rasul 10",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "10"
+    }, {
+        "verse": "Kisah Para Rasul 11",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "11"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 12",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "12"
+    }, {
+        "verse": "Kisah Para Rasul 13",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "13"
+    }, {
+        "verse": "Kisah Para Rasul 14",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "14"
+    }, {
+        "verse": "Kisah Para Rasul 15",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "15"
+    }, {
+        "verse": "Kisah Para Rasul 16",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "16"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 17",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "17"
+    }, {
+        "verse": "Kisah Para Rasul 18",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "18"
+    }, {
+        "verse": "Kisah Para Rasul 19",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "19"
+    }, {
+        "verse": "Kisah Para Rasul 20",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "20"
+    }, {
+        "verse": "Kisah Para Rasul 21",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "21"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 22",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "22"
+    }, {
+        "verse": "Kisah Para Rasul 23",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "23"
+    }, {
+        "verse": "Kisah Para Rasul 24",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "24"
+    }, {
+        "verse": "Kisah Para Rasul 25",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "25"
+    }, {
+        "verse": "Kisah Para Rasul 26",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "26"
+    }],
+    [{
+        "verse": "Kisah Para Rasul 27",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "27"
+    }, {
+        "verse": "Kisah Para Rasul 28",
+        "book": "Kisah Para Rasul",
+        "verseNumber": "28"
+    }, {
+        "verse": "Roma 1",
+        "book": "Roma",
+        "verseNumber": "1"
+    }, {
+        "verse": "Roma 2",
+        "book": "Roma",
+        "verseNumber": "2"
+    }, {
+        "verse": "Roma 3",
+        "book": "Roma",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "Roma 4",
+        "book": "Roma",
+        "verseNumber": "4"
+    }, {
+        "verse": "Roma 5",
+        "book": "Roma",
+        "verseNumber": "5"
+    }, {
+        "verse": "Roma 6",
+        "book": "Roma",
+        "verseNumber": "6"
+    }, {
+        "verse": "Roma 7",
+        "book": "Roma",
+        "verseNumber": "7"
+    }, {
+        "verse": "Roma 8",
+        "book": "Roma",
+        "verseNumber": "8"
+    }],
+    [{
+        "verse": "Roma 9",
+        "book": "Roma",
+        "verseNumber": "9"
+    }, {
+        "verse": "Roma 10",
+        "book": "Roma",
+        "verseNumber": "10"
+    }, {
+        "verse": "Roma 11",
+        "book": "Roma",
+        "verseNumber": "11"
+    }, {
+        "verse": "Roma 12",
+        "book": "Roma",
+        "verseNumber": "12"
+    }, {
+        "verse": "Roma 13",
+        "book": "Roma",
+        "verseNumber": "13"
+    }],
+    [{
+        "verse": "Roma 14",
+        "book": "Roma",
+        "verseNumber": "14"
+    }, {
+        "verse": "Roma 15",
+        "book": "Roma",
+        "verseNumber": "15"
+    }, {
+        "verse": "Roma 16",
+        "book": "Roma",
+        "verseNumber": "16"
+    }, {
+        "verse": "1 Korintus 1",
+        "book": "1 Korintus",
+        "verseNumber": "1"
+    }, {
+        "verse": "1 Korintus 2",
+        "book": "1 Korintus",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "1 Korintus 3",
+        "book": "1 Korintus",
+        "verseNumber": "3"
+    }, {
+        "verse": "1 Korintus 4",
+        "book": "1 Korintus",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Korintus 5",
+        "book": "1 Korintus",
+        "verseNumber": "5"
+    }, {
+        "verse": "1 Korintus 6",
+        "book": "1 Korintus",
+        "verseNumber": "6"
+    }, {
+        "verse": "1 Korintus 7",
+        "book": "1 Korintus",
+        "verseNumber": "7"
+    }],
+    [{
+        "verse": "1 Korintus 8",
+        "book": "1 Korintus",
+        "verseNumber": "8"
+    }, {
+        "verse": "1 Korintus 9",
+        "book": "1 Korintus",
+        "verseNumber": "9"
+    }, {
+        "verse": "1 Korintus 10",
+        "book": "1 Korintus",
+        "verseNumber": "10"
+    }, {
+        "verse": "1 Korintus 11",
+        "book": "1 Korintus",
+        "verseNumber": "11"
+    }, {
+        "verse": "1 Korintus 12",
+        "book": "1 Korintus",
+        "verseNumber": "12"
+    }],
+    [{
+        "verse": "1 Korintus 13",
+        "book": "1 Korintus",
+        "verseNumber": "13"
+    }, {
+        "verse": "1 Korintus 14",
+        "book": "1 Korintus",
+        "verseNumber": "14"
+    }, {
+        "verse": "1 Korintus 15",
+        "book": "1 Korintus",
+        "verseNumber": "15"
+    }, {
+        "verse": "1 Korintus 16",
+        "book": "1 Korintus",
+        "verseNumber": "16"
+    }, {
+        "verse": "2 Korintus 1",
+        "book": "2 Korintus",
+        "verseNumber": "1"
+    }],
+    [{
+        "verse": "2 Korintus 2",
+        "book": "2 Korintus",
+        "verseNumber": "2"
+    }, {
+        "verse": "2 Korintus 3",
+        "book": "2 Korintus",
+        "verseNumber": "3"
+    }, {
+        "verse": "2 Korintus 4",
+        "book": "2 Korintus",
+        "verseNumber": "4"
+    }, {
+        "verse": "2 Korintus 5",
+        "book": "2 Korintus",
+        "verseNumber": "5"
+    }, {
+        "verse": "2 Korintus 6",
+        "book": "2 Korintus",
+        "verseNumber": "6"
+    }],
+    [{
+        "verse": "2 Korintus 7",
+        "book": "2 Korintus",
+        "verseNumber": "7"
+    }, {
+        "verse": "2 Korintus 8",
+        "book": "2 Korintus",
+        "verseNumber": "8"
+    }, {
+        "verse": "2 Korintus 9",
+        "book": "2 Korintus",
+        "verseNumber": "9"
+    }, {
+        "verse": "2 Korintus 10",
+        "book": "2 Korintus",
+        "verseNumber": "10"
+    }, {
+        "verse": "2 Korintus 11",
+        "book": "2 Korintus",
+        "verseNumber": "11"
+    }],
+    [{
+        "verse": "2 Korintus 12",
+        "book": "2 Korintus",
+        "verseNumber": "12"
+    }, {
+        "verse": "2 Korintus 13",
+        "book": "2 Korintus",
+        "verseNumber": "13"
+    }, {
+        "verse": "Galatia 1",
+        "book": "Galatia",
+        "verseNumber": "1"
+    }, {
+        "verse": "Galatia 2",
+        "book": "Galatia",
+        "verseNumber": "2"
+    }, {
+        "verse": "Galatia 3",
+        "book": "Galatia",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "Galatia 4",
+        "book": "Galatia",
+        "verseNumber": "4"
+    }, {
+        "verse": "Galatia 5",
+        "book": "Galatia",
+        "verseNumber": "5"
+    }, {
+        "verse": "Galatia 6",
+        "book": "Galatia",
+        "verseNumber": "6"
+    }, {
+        "verse": "Efesus 1",
+        "book": "Efesus",
+        "verseNumber": "1"
+    }, {
+        "verse": "Efesus 2",
+        "book": "Efesus",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "Efesus 3",
+        "book": "Efesus",
+        "verseNumber": "3"
+    }, {
+        "verse": "Efesus 4",
+        "book": "Efesus",
+        "verseNumber": "4"
+    }, {
+        "verse": "Efesus 5",
+        "book": "Efesus",
+        "verseNumber": "5"
+    }, {
+        "verse": "Efesus 6",
+        "book": "Efesus",
+        "verseNumber": "6"
+    }, {
+        "verse": "Filipi 1",
+        "book": "Filipi",
+        "verseNumber": "1"
+    }],
+    [{
+        "verse": "Filipi 2",
+        "book": "Filipi",
+        "verseNumber": "2"
+    }, {
+        "verse": "Filipi 3",
+        "book": "Filipi",
+        "verseNumber": "3"
+    }, {
+        "verse": "Filipi 4",
+        "book": "Filipi",
+        "verseNumber": "4"
+    }, {
+        "verse": "Kolose 1",
+        "book": "Kolose",
+        "verseNumber": "1"
+    }, {
+        "verse": "Kolose 2",
+        "book": "Kolose",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "Kolose 3",
+        "book": "Kolose",
+        "verseNumber": "3"
+    }, {
+        "verse": "Kolose 4",
+        "book": "Kolose",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Tesalonika 1",
+        "book": "1 Tesalonika",
+        "verseNumber": "1"
+    }, {
+        "verse": "1 Tesalonika 2",
+        "book": "1 Tesalonika",
+        "verseNumber": "2"
+    }, {
+        "verse": "1 Tesalonika 3",
+        "book": "1 Tesalonika",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "1 Tesalonika 4",
+        "book": "1 Tesalonika",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Tesalonika 5",
+        "book": "1 Tesalonika",
+        "verseNumber": "5"
+    }, {
+        "verse": "2 Tesalonika 1",
+        "book": "2 Tesalonika",
+        "verseNumber": "1"
+    }, {
+        "verse": "2 Tesalonika 2",
+        "book": "2 Tesalonika",
+        "verseNumber": "2"
+    }, {
+        "verse": "2 Tesalonika 3",
+        "book": "2 Tesalonika",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "1 Timotius 1",
+        "book": "1 Timotius",
+        "verseNumber": "1"
+    }, {
+        "verse": "1 Timotius 2",
+        "book": "1 Timotius",
+        "verseNumber": "2"
+    }, {
+        "verse": "1 Timotius 3",
+        "book": "1 Timotius",
+        "verseNumber": "3"
+    }, {
+        "verse": "1 Timotius 4",
+        "book": "1 Timotius",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Timotius 5",
+        "book": "1 Timotius",
+        "verseNumber": "5"
+    }],
+    [{
+        "verse": "1 Timotius 6",
+        "book": "1 Timotius",
+        "verseNumber": "6"
+    }, {
+        "verse": "2 Timotius 1",
+        "book": "2 Timotius",
+        "verseNumber": "1"
+    }, {
+        "verse": "2 Timotius 2",
+        "book": "2 Timotius",
+        "verseNumber": "2"
+    }, {
+        "verse": "2 Timotius 3",
+        "book": "2 Timotius",
+        "verseNumber": "3"
+    }, {
+        "verse": "2 Timotius 4",
+        "book": "2 Timotius",
+        "verseNumber": "4"
+    }],
+    [{
+        "verse": "Titus 1",
+        "book": "Titus",
+        "verseNumber": "1"
+    }, {
+        "verse": "Titus 2",
+        "book": "Titus",
+        "verseNumber": "2"
+    }, {
+        "verse": "Titus 3",
+        "book": "Titus",
+        "verseNumber": "3"
+    }, {
+        "verse": "Filemon 1",
+        "book": "Filemon",
+        "verseNumber": "1"
+    }, {
+        "verse": "Ibrani 1",
+        "book": "Ibrani",
+        "verseNumber": "1"
+    }],
+    [{
+        "verse": "Ibrani 2",
+        "book": "Ibrani",
+        "verseNumber": "2"
+    }, {
+        "verse": "Ibrani 3",
+        "book": "Ibrani",
+        "verseNumber": "3"
+    }, {
+        "verse": "Ibrani 4",
+        "book": "Ibrani",
+        "verseNumber": "4"
+    }, {
+        "verse": "Ibrani 5",
+        "book": "Ibrani",
+        "verseNumber": "5"
+    }, {
+        "verse": "Ibrani 6",
+        "book": "Ibrani",
+        "verseNumber": "6"
+    }],
+    [{
+        "verse": "Ibrani 7",
+        "book": "Ibrani",
+        "verseNumber": "7"
+    }, {
+        "verse": "Ibrani 8",
+        "book": "Ibrani",
+        "verseNumber": "8"
+    }, {
+        "verse": "Ibrani 9",
+        "book": "Ibrani",
+        "verseNumber": "9"
+    }, {
+        "verse": "Ibrani 10",
+        "book": "Ibrani",
+        "verseNumber": "10"
+    }, {
+        "verse": "Ibrani 11",
+        "book": "Ibrani",
+        "verseNumber": "11"
+    }],
+    [{
+        "verse": "Ibrani 12",
+        "book": "Ibrani",
+        "verseNumber": "12"
+    }, {
+        "verse": "Ibrani 13",
+        "book": "Ibrani",
+        "verseNumber": "13"
+    }, {
+        "verse": "Yakobus 1",
+        "book": "Yakobus",
+        "verseNumber": "1"
+    }, {
+        "verse": "Yakobus 2",
+        "book": "Yakobus",
+        "verseNumber": "2"
+    }, {
+        "verse": "Yakobus 3",
+        "book": "Yakobus",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "Yakobus 4",
+        "book": "Yakobus",
+        "verseNumber": "4"
+    }, {
+        "verse": "Yakobus 5",
+        "book": "Yakobus",
+        "verseNumber": "5"
+    }, {
+        "verse": "1 Petrus 1",
+        "book": "1 Petrus",
+        "verseNumber": "1"
+    }, {
+        "verse": "1 Petrus 2",
+        "book": "1 Petrus",
+        "verseNumber": "2"
+    }, {
+        "verse": "1 Petrus 3",
+        "book": "1 Petrus",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "1 Petrus 4",
+        "book": "1 Petrus",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Petrus 5",
+        "book": "1 Petrus",
+        "verseNumber": "5"
+    }, {
+        "verse": "2 Petrus 1",
+        "book": "2 Petrus",
+        "verseNumber": "1"
+    }, {
+        "verse": "2 Petrus 2",
+        "book": "2 Petrus",
+        "verseNumber": "2"
+    }, {
+        "verse": "2 Petrus 3",
+        "book": "2 Petrus",
+        "verseNumber": "3"
+    }],
+    [{
+        "verse": "1 Yohanes 1",
+        "book": "1 Yohanes",
+        "verseNumber": "1"
+    }, {
+        "verse": "1 Yohanes 2",
+        "book": "1 Yohanes",
+        "verseNumber": "2"
+    }, {
+        "verse": "1 Yohanes 3",
+        "book": "1 Yohanes",
+        "verseNumber": "3"
+    }, {
+        "verse": "1 Yohanes 4",
+        "book": "1 Yohanes",
+        "verseNumber": "4"
+    }, {
+        "verse": "1 Yohanes 5",
+        "book": "1 Yohanes",
+        "verseNumber": "5"
+    }],
+    [{
+        "verse": "2 Yohanes 1",
+        "book": "2 Yohanes",
+        "verseNumber": "1"
+    }, {
+        "verse": "3 Yohanes 1",
+        "book": "3 Yohanes",
+        "verseNumber": "1"
+    }, {
+        "verse": "Yudas 1",
+        "book": "Yudas",
+        "verseNumber": "1"
+    }, {
+        "verse": "Wahyu 1",
+        "book": "Wahyu",
+        "verseNumber": "1"
+    }, {
+        "verse": "Wahyu 2",
+        "book": "Wahyu",
+        "verseNumber": "2"
+    }],
+    [{
+        "verse": "Wahyu 3",
+        "book": "Wahyu",
+        "verseNumber": "3"
+    }, {
+        "verse": "Wahyu 4",
+        "book": "Wahyu",
+        "verseNumber": "4"
+    }, {
+        "verse": "Wahyu 5",
+        "book": "Wahyu",
+        "verseNumber": "5"
+    }, {
+        "verse": "Wahyu 6",
+        "book": "Wahyu",
+        "verseNumber": "6"
+    }, {
+        "verse": "Wahyu 7",
+        "book": "Wahyu",
+        "verseNumber": "7"
+    }],
+    [{
+        "verse": "Wahyu 8",
+        "book": "Wahyu",
+        "verseNumber": "8"
+    }, {
+        "verse": "Wahyu 9",
+        "book": "Wahyu",
+        "verseNumber": "9"
+    }, {
+        "verse": "Wahyu 10",
+        "book": "Wahyu",
+        "verseNumber": "10"
+    }, {
+        "verse": "Wahyu 11",
+        "book": "Wahyu",
+        "verseNumber": "11"
+    }, {
+        "verse": "Wahyu 12",
+        "book": "Wahyu",
+        "verseNumber": "12"
+    }],
+    [{
+        "verse": "Wahyu 13",
+        "book": "Wahyu",
+        "verseNumber": "13"
+    }, {
+        "verse": "Wahyu 14",
+        "book": "Wahyu",
+        "verseNumber": "14"
+    }, {
+        "verse": "Wahyu 15",
+        "book": "Wahyu",
+        "verseNumber": "15"
+    }, {
+        "verse": "Wahyu 16",
+        "book": "Wahyu",
+        "verseNumber": "16"
+    }, {
+        "verse": "Wahyu 17",
+        "book": "Wahyu",
+        "verseNumber": "17"
+    }],
+    [{
+        "verse": "Wahyu 18",
+        "book": "Wahyu",
+        "verseNumber": "18"
+    }, {
+        "verse": "Wahyu 19",
+        "book": "Wahyu",
+        "verseNumber": "19"
+    }, {
+        "verse": "Wahyu 20",
+        "book": "Wahyu",
+        "verseNumber": "20"
+    }, {
+        "verse": "Wahyu 21",
+        "book": "Wahyu",
+        "verseNumber": "21"
+    }, {
+        "verse": "Wahyu 22",
+        "book": "Wahyu",
+        "verseNumber": "22"
+    }]
+]
