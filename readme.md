@@ -6,7 +6,7 @@ This project is related to [https://github.com/drepram/bapa](https://github.com/
 Let me explains the directories and the files in this project.
 
 ## Installing
-> First, we have to clone the project into machine
+> First, we have to clone the project into our machine
 
 ```shell
 $ git clone https://github.com/drepram/pasal
