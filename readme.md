@@ -47,3 +47,7 @@ $ node verse.js|pbcopy
 
 We don't actually run this file, the only use of this file is to combine the reading schedule of the New and Old Testaments.
 
+## License
+
+This project is licensed under the MIT license.
+
