@@ -1667,6 +1667,31 @@
         "book": "2 Tawarikh",
         "verseNumber": "30"
     }, {
+        "verse": "2 Tawarikh 31",
+        "book": "2 Tawarikh",
+        "verseNumber": "31"
+    }, {
+        "verse": "2 Tawarikh 32",
+        "book": "2 Tawarikh",
+        "verseNumber": "32"
+    }, {
+        "verse": "2 Tawarikh 33",
+        "book": "2 Tawarikh",
+        "verseNumber": "33"
+    }],
+    [{
+        "verse": "2 Tawarikh 34",
+        "book": "2 Tawarikh",
+        "verseNumber": "34"
+    }, {
+        "verse": "2 Tawarikh 35",
+        "book": "2 Tawarikh",
+        "verseNumber": "35"
+    }, {
+        "verse": "2 Tawarikh 36",
+        "book": "2 Tawarikh",
+        "verseNumber": "36"
+    }, {
         "verse": "Ezra 1",
         "book": "Ezra",
         "verseNumber": "1"
@@ -1674,12 +1699,12 @@
         "verse": "Ezra 2",
         "book": "Ezra",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Ezra 3",
         "book": "Ezra",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Ezra 4",
         "book": "Ezra",
         "verseNumber": "4"
@@ -1695,12 +1720,12 @@
         "verse": "Ezra 7",
         "book": "Ezra",
         "verseNumber": "7"
-    }, {
+    }],
+    [{
         "verse": "Ezra 8",
         "book": "Ezra",
         "verseNumber": "8"
-    }],
-    [{
+    }, {
         "verse": "Ezra 9",
         "book": "Ezra",
         "verseNumber": "9"
@@ -1716,12 +1741,12 @@
         "verse": "Nehemia 2",
         "book": "Nehemia",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Nehemia 3",
         "book": "Nehemia",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Nehemia 4",
         "book": "Nehemia",
         "verseNumber": "4"
@@ -1737,12 +1762,12 @@
         "verse": "Nehemia 7",
         "book": "Nehemia",
         "verseNumber": "7"
-    }, {
+    }],
+    [{
         "verse": "Nehemia 8",
         "book": "Nehemia",
         "verseNumber": "8"
-    }],
-    [{
+    }, {
         "verse": "Nehemia 9",
         "book": "Nehemia",
         "verseNumber": "9"
@@ -1758,12 +1783,12 @@
         "verse": "Nehemia 12",
         "book": "Nehemia",
         "verseNumber": "12"
-    }, {
+    }],
+    [{
         "verse": "Nehemia 13",
         "book": "Nehemia",
         "verseNumber": "13"
-    }],
-    [{
+    }, {
         "verse": "Ester 1",
         "book": "Ester",
         "verseNumber": "1"
@@ -1779,12 +1804,12 @@
         "verse": "Ester 4",
         "book": "Ester",
         "verseNumber": "4"
-    }, {
+    }],
+    [{
         "verse": "Ester 5",
         "book": "Ester",
         "verseNumber": "5"
-    }],
-    [{
+    }, {
         "verse": "Ester 6",
         "book": "Ester",
         "verseNumber": "6"
@@ -1800,12 +1825,12 @@
         "verse": "Ester 9",
         "book": "Ester",
         "verseNumber": "9"
-    }, {
+    }],
+    [{
         "verse": "Ester 10",
         "book": "Ester",
         "verseNumber": "10"
-    }],
-    [{
+    }, {
         "verse": "Ayub 1",
         "book": "Ayub",
         "verseNumber": "1"
@@ -1821,12 +1846,12 @@
         "verse": "Ayub 4",
         "book": "Ayub",
         "verseNumber": "4"
-    }, {
+    }],
+    [{
         "verse": "Ayub 5",
         "book": "Ayub",
         "verseNumber": "5"
-    }],
-    [{
+    }, {
         "verse": "Ayub 6",
         "book": "Ayub",
         "verseNumber": "6"
@@ -1842,12 +1867,12 @@
         "verse": "Ayub 9",
         "book": "Ayub",
         "verseNumber": "9"
-    }, {
+    }],
+    [{
         "verse": "Ayub 10",
         "book": "Ayub",
         "verseNumber": "10"
-    }],
-    [{
+    }, {
         "verse": "Ayub 11",
         "book": "Ayub",
         "verseNumber": "11"
@@ -1863,12 +1888,12 @@
         "verse": "Ayub 14",
         "book": "Ayub",
         "verseNumber": "14"
-    }, {
+    }],
+    [{
         "verse": "Ayub 15",
         "book": "Ayub",
         "verseNumber": "15"
-    }],
-    [{
+    }, {
         "verse": "Ayub 16",
         "book": "Ayub",
         "verseNumber": "16"
@@ -1884,12 +1909,12 @@
         "verse": "Ayub 19",
         "book": "Ayub",
         "verseNumber": "19"
-    }, {
+    }],
+    [{
         "verse": "Ayub 20",
         "book": "Ayub",
         "verseNumber": "20"
-    }],
-    [{
+    }, {
         "verse": "Ayub 21",
         "book": "Ayub",
         "verseNumber": "21"
@@ -1905,12 +1930,12 @@
         "verse": "Ayub 24",
         "book": "Ayub",
         "verseNumber": "24"
-    }, {
+    }],
+    [{
         "verse": "Ayub 25",
         "book": "Ayub",
         "verseNumber": "25"
-    }],
-    [{
+    }, {
         "verse": "Ayub 26",
         "book": "Ayub",
         "verseNumber": "26"
@@ -1926,12 +1951,12 @@
         "verse": "Ayub 29",
         "book": "Ayub",
         "verseNumber": "29"
-    }, {
+    }],
+    [{
         "verse": "Ayub 30",
         "book": "Ayub",
         "verseNumber": "30"
-    }],
-    [{
+    }, {
         "verse": "Ayub 31",
         "book": "Ayub",
         "verseNumber": "31"
@@ -1947,12 +1972,12 @@
         "verse": "Ayub 34",
         "book": "Ayub",
         "verseNumber": "34"
-    }, {
+    }],
+    [{
         "verse": "Ayub 35",
         "book": "Ayub",
         "verseNumber": "35"
-    }],
-    [{
+    }, {
         "verse": "Ayub 36",
         "book": "Ayub",
         "verseNumber": "36"
@@ -1968,12 +1993,12 @@
         "verse": "Ayub 39",
         "book": "Ayub",
         "verseNumber": "39"
-    }, {
+    }],
+    [{
         "verse": "Ayub 40",
         "book": "Ayub",
         "verseNumber": "40"
-    }],
-    [{
+    }, {
         "verse": "Ayub 41",
         "book": "Ayub",
         "verseNumber": "41"
@@ -1989,12 +2014,12 @@
         "verse": "Mazmur 2",
         "book": "Mazmur",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 3",
         "book": "Mazmur",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 4",
         "book": "Mazmur",
         "verseNumber": "4"
@@ -2010,12 +2035,12 @@
         "verse": "Mazmur 7",
         "book": "Mazmur",
         "verseNumber": "7"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 8",
         "book": "Mazmur",
         "verseNumber": "8"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 9",
         "book": "Mazmur",
         "verseNumber": "9"
@@ -2031,12 +2056,12 @@
         "verse": "Mazmur 12",
         "book": "Mazmur",
         "verseNumber": "12"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 13",
         "book": "Mazmur",
         "verseNumber": "13"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 14",
         "book": "Mazmur",
         "verseNumber": "14"
@@ -2052,12 +2077,12 @@
         "verse": "Mazmur 17",
         "book": "Mazmur",
         "verseNumber": "17"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 18",
         "book": "Mazmur",
         "verseNumber": "18"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 19",
         "book": "Mazmur",
         "verseNumber": "19"
@@ -2073,12 +2098,12 @@
         "verse": "Mazmur 22",
         "book": "Mazmur",
         "verseNumber": "22"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 23",
         "book": "Mazmur",
         "verseNumber": "23"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 24",
         "book": "Mazmur",
         "verseNumber": "24"
@@ -2094,12 +2119,12 @@
         "verse": "Mazmur 27",
         "book": "Mazmur",
         "verseNumber": "27"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 28",
         "book": "Mazmur",
         "verseNumber": "28"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 29",
         "book": "Mazmur",
         "verseNumber": "29"
@@ -2115,12 +2140,12 @@
         "verse": "Mazmur 32",
         "book": "Mazmur",
         "verseNumber": "32"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 33",
         "book": "Mazmur",
         "verseNumber": "33"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 34",
         "book": "Mazmur",
         "verseNumber": "34"
@@ -2136,12 +2161,12 @@
         "verse": "Mazmur 37",
         "book": "Mazmur",
         "verseNumber": "37"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 38",
         "book": "Mazmur",
         "verseNumber": "38"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 39",
         "book": "Mazmur",
         "verseNumber": "39"
@@ -2157,12 +2182,12 @@
         "verse": "Mazmur 42",
         "book": "Mazmur",
         "verseNumber": "42"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 43",
         "book": "Mazmur",
         "verseNumber": "43"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 44",
         "book": "Mazmur",
         "verseNumber": "44"
@@ -2178,12 +2203,12 @@
         "verse": "Mazmur 47",
         "book": "Mazmur",
         "verseNumber": "47"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 48",
         "book": "Mazmur",
         "verseNumber": "48"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 49",
         "book": "Mazmur",
         "verseNumber": "49"
@@ -2199,12 +2224,12 @@
         "verse": "Mazmur 52",
         "book": "Mazmur",
         "verseNumber": "52"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 53",
         "book": "Mazmur",
         "verseNumber": "53"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 54",
         "book": "Mazmur",
         "verseNumber": "54"
@@ -2220,12 +2245,12 @@
         "verse": "Mazmur 57",
         "book": "Mazmur",
         "verseNumber": "57"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 58",
         "book": "Mazmur",
         "verseNumber": "58"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 59",
         "book": "Mazmur",
         "verseNumber": "59"
@@ -2241,12 +2266,12 @@
         "verse": "Mazmur 62",
         "book": "Mazmur",
         "verseNumber": "62"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 63",
         "book": "Mazmur",
         "verseNumber": "63"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 64",
         "book": "Mazmur",
         "verseNumber": "64"
@@ -2262,12 +2287,12 @@
         "verse": "Mazmur 67",
         "book": "Mazmur",
         "verseNumber": "67"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 68",
         "book": "Mazmur",
         "verseNumber": "68"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 69",
         "book": "Mazmur",
         "verseNumber": "69"
@@ -2283,12 +2308,12 @@
         "verse": "Mazmur 72",
         "book": "Mazmur",
         "verseNumber": "72"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 73",
         "book": "Mazmur",
         "verseNumber": "73"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 74",
         "book": "Mazmur",
         "verseNumber": "74"
@@ -2304,12 +2329,12 @@
         "verse": "Mazmur 77",
         "book": "Mazmur",
         "verseNumber": "77"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 78",
         "book": "Mazmur",
         "verseNumber": "78"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 79",
         "book": "Mazmur",
         "verseNumber": "79"
@@ -2325,12 +2350,12 @@
         "verse": "Mazmur 82",
         "book": "Mazmur",
         "verseNumber": "82"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 83",
         "book": "Mazmur",
         "verseNumber": "83"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 84",
         "book": "Mazmur",
         "verseNumber": "84"
@@ -2346,12 +2371,12 @@
         "verse": "Mazmur 87",
         "book": "Mazmur",
         "verseNumber": "87"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 88",
         "book": "Mazmur",
         "verseNumber": "88"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 89",
         "book": "Mazmur",
         "verseNumber": "89"
@@ -2367,12 +2392,12 @@
         "verse": "Mazmur 92",
         "book": "Mazmur",
         "verseNumber": "92"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 93",
         "book": "Mazmur",
         "verseNumber": "93"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 94",
         "book": "Mazmur",
         "verseNumber": "94"
@@ -2388,12 +2413,12 @@
         "verse": "Mazmur 97",
         "book": "Mazmur",
         "verseNumber": "97"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 98",
         "book": "Mazmur",
         "verseNumber": "98"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 99",
         "book": "Mazmur",
         "verseNumber": "99"
@@ -2409,12 +2434,12 @@
         "verse": "Mazmur 102",
         "book": "Mazmur",
         "verseNumber": "102"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 103",
         "book": "Mazmur",
         "verseNumber": "103"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 104",
         "book": "Mazmur",
         "verseNumber": "104"
@@ -2430,12 +2455,12 @@
         "verse": "Mazmur 107",
         "book": "Mazmur",
         "verseNumber": "107"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 108",
         "book": "Mazmur",
         "verseNumber": "108"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 109",
         "book": "Mazmur",
         "verseNumber": "109"
@@ -2451,12 +2476,12 @@
         "verse": "Mazmur 112",
         "book": "Mazmur",
         "verseNumber": "112"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 113",
         "book": "Mazmur",
         "verseNumber": "113"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 114",
         "book": "Mazmur",
         "verseNumber": "114"
@@ -2472,12 +2497,12 @@
         "verse": "Mazmur 117",
         "book": "Mazmur",
         "verseNumber": "117"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 118",
         "book": "Mazmur",
         "verseNumber": "118"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 119",
         "book": "Mazmur",
         "verseNumber": "119"
@@ -2493,12 +2518,12 @@
         "verse": "Mazmur 122",
         "book": "Mazmur",
         "verseNumber": "122"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 123",
         "book": "Mazmur",
         "verseNumber": "123"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 124",
         "book": "Mazmur",
         "verseNumber": "124"
@@ -2514,12 +2539,12 @@
         "verse": "Mazmur 127",
         "book": "Mazmur",
         "verseNumber": "127"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 128",
         "book": "Mazmur",
         "verseNumber": "128"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 129",
         "book": "Mazmur",
         "verseNumber": "129"
@@ -2535,12 +2560,12 @@
         "verse": "Mazmur 132",
         "book": "Mazmur",
         "verseNumber": "132"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 133",
         "book": "Mazmur",
         "verseNumber": "133"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 134",
         "book": "Mazmur",
         "verseNumber": "134"
@@ -2556,12 +2581,12 @@
         "verse": "Mazmur 137",
         "book": "Mazmur",
         "verseNumber": "137"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 138",
         "book": "Mazmur",
         "verseNumber": "138"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 139",
         "book": "Mazmur",
         "verseNumber": "139"
@@ -2577,12 +2602,12 @@
         "verse": "Mazmur 142",
         "book": "Mazmur",
         "verseNumber": "142"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 143",
         "book": "Mazmur",
         "verseNumber": "143"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 144",
         "book": "Mazmur",
         "verseNumber": "144"
@@ -2598,12 +2623,12 @@
         "verse": "Mazmur 147",
         "book": "Mazmur",
         "verseNumber": "147"
-    }, {
+    }],
+    [{
         "verse": "Mazmur 148",
         "book": "Mazmur",
         "verseNumber": "148"
-    }],
-    [{
+    }, {
         "verse": "Mazmur 149",
         "book": "Mazmur",
         "verseNumber": "149"
@@ -2619,12 +2644,12 @@
         "verse": "Amsal 2",
         "book": "Amsal",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Amsal 3",
         "book": "Amsal",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Amsal 4",
         "book": "Amsal",
         "verseNumber": "4"
@@ -2640,12 +2665,12 @@
         "verse": "Amsal 7",
         "book": "Amsal",
         "verseNumber": "7"
-    }, {
+    }],
+    [{
         "verse": "Amsal 8",
         "book": "Amsal",
         "verseNumber": "8"
-    }],
-    [{
+    }, {
         "verse": "Amsal 9",
         "book": "Amsal",
         "verseNumber": "9"
@@ -2661,12 +2686,12 @@
         "verse": "Amsal 12",
         "book": "Amsal",
         "verseNumber": "12"
-    }, {
+    }],
+    [{
         "verse": "Amsal 13",
         "book": "Amsal",
         "verseNumber": "13"
-    }],
-    [{
+    }, {
         "verse": "Amsal 14",
         "book": "Amsal",
         "verseNumber": "14"
@@ -2682,12 +2707,12 @@
         "verse": "Amsal 17",
         "book": "Amsal",
         "verseNumber": "17"
-    }, {
+    }],
+    [{
         "verse": "Amsal 18",
         "book": "Amsal",
         "verseNumber": "18"
-    }],
-    [{
+    }, {
         "verse": "Amsal 19",
         "book": "Amsal",
         "verseNumber": "19"
@@ -2703,12 +2728,12 @@
         "verse": "Amsal 22",
         "book": "Amsal",
         "verseNumber": "22"
-    }, {
+    }],
+    [{
         "verse": "Amsal 23",
         "book": "Amsal",
         "verseNumber": "23"
-    }],
-    [{
+    }, {
         "verse": "Amsal 24",
         "book": "Amsal",
         "verseNumber": "24"
@@ -2724,12 +2749,12 @@
         "verse": "Amsal 27",
         "book": "Amsal",
         "verseNumber": "27"
-    }, {
+    }],
+    [{
         "verse": "Amsal 28",
         "book": "Amsal",
         "verseNumber": "28"
-    }],
-    [{
+    }, {
         "verse": "Amsal 29",
         "book": "Amsal",
         "verseNumber": "29"
@@ -2745,12 +2770,12 @@
         "verse": "Pengkhotbah 1",
         "book": "Pengkhotbah",
         "verseNumber": "1"
-    }, {
+    }],
+    [{
         "verse": "Pengkhotbah 2",
         "book": "Pengkhotbah",
         "verseNumber": "2"
-    }],
-    [{
+    }, {
         "verse": "Pengkhotbah 3",
         "book": "Pengkhotbah",
         "verseNumber": "3"
@@ -2766,12 +2791,12 @@
         "verse": "Pengkhotbah 6",
         "book": "Pengkhotbah",
         "verseNumber": "6"
-    }, {
+    }],
+    [{
         "verse": "Pengkhotbah 7",
         "book": "Pengkhotbah",
         "verseNumber": "7"
-    }],
-    [{
+    }, {
         "verse": "Pengkhotbah 8",
         "book": "Pengkhotbah",
         "verseNumber": "8"
@@ -2787,12 +2812,12 @@
         "verse": "Pengkhotbah 11",
         "book": "Pengkhotbah",
         "verseNumber": "11"
-    }, {
+    }],
+    [{
         "verse": "Pengkhotbah 12",
         "book": "Pengkhotbah",
         "verseNumber": "12"
-    }],
-    [{
+    }, {
         "verse": "Kidung Agung 1",
         "book": "Kidung Agung",
         "verseNumber": "1"
@@ -2808,12 +2833,12 @@
         "verse": "Kidung Agung 4",
         "book": "Kidung Agung",
         "verseNumber": "4"
-    }, {
+    }],
+    [{
         "verse": "Kidung Agung 5",
         "book": "Kidung Agung",
         "verseNumber": "5"
-    }],
-    [{
+    }, {
         "verse": "Kidung Agung 6",
         "book": "Kidung Agung",
         "verseNumber": "6"
@@ -2829,12 +2854,12 @@
         "verse": "Yesaya 1",
         "book": "Yesaya",
         "verseNumber": "1"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 2",
         "book": "Yesaya",
         "verseNumber": "2"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 3",
         "book": "Yesaya",
         "verseNumber": "3"
@@ -2850,12 +2875,12 @@
         "verse": "Yesaya 6",
         "book": "Yesaya",
         "verseNumber": "6"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 7",
         "book": "Yesaya",
         "verseNumber": "7"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 8",
         "book": "Yesaya",
         "verseNumber": "8"
@@ -2871,12 +2896,12 @@
         "verse": "Yesaya 11",
         "book": "Yesaya",
         "verseNumber": "11"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 12",
         "book": "Yesaya",
         "verseNumber": "12"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 13",
         "book": "Yesaya",
         "verseNumber": "13"
@@ -2892,12 +2917,12 @@
         "verse": "Yesaya 16",
         "book": "Yesaya",
         "verseNumber": "16"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 17",
         "book": "Yesaya",
         "verseNumber": "17"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 18",
         "book": "Yesaya",
         "verseNumber": "18"
@@ -2913,12 +2938,12 @@
         "verse": "Yesaya 21",
         "book": "Yesaya",
         "verseNumber": "21"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 22",
         "book": "Yesaya",
         "verseNumber": "22"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 23",
         "book": "Yesaya",
         "verseNumber": "23"
@@ -2934,12 +2959,12 @@
         "verse": "Yesaya 26",
         "book": "Yesaya",
         "verseNumber": "26"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 27",
         "book": "Yesaya",
         "verseNumber": "27"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 28",
         "book": "Yesaya",
         "verseNumber": "28"
@@ -2955,12 +2980,12 @@
         "verse": "Yesaya 31",
         "book": "Yesaya",
         "verseNumber": "31"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 32",
         "book": "Yesaya",
         "verseNumber": "32"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 33",
         "book": "Yesaya",
         "verseNumber": "33"
@@ -2976,12 +3001,12 @@
         "verse": "Yesaya 36",
         "book": "Yesaya",
         "verseNumber": "36"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 37",
         "book": "Yesaya",
         "verseNumber": "37"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 38",
         "book": "Yesaya",
         "verseNumber": "38"
@@ -2997,12 +3022,12 @@
         "verse": "Yesaya 41",
         "book": "Yesaya",
         "verseNumber": "41"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 42",
         "book": "Yesaya",
         "verseNumber": "42"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 43",
         "book": "Yesaya",
         "verseNumber": "43"
@@ -3018,12 +3043,12 @@
         "verse": "Yesaya 46",
         "book": "Yesaya",
         "verseNumber": "46"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 47",
         "book": "Yesaya",
         "verseNumber": "47"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 48",
         "book": "Yesaya",
         "verseNumber": "48"
@@ -3039,12 +3064,12 @@
         "verse": "Yesaya 51",
         "book": "Yesaya",
         "verseNumber": "51"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 52",
         "book": "Yesaya",
         "verseNumber": "52"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 53",
         "book": "Yesaya",
         "verseNumber": "53"
@@ -3060,12 +3085,12 @@
         "verse": "Yesaya 56",
         "book": "Yesaya",
         "verseNumber": "56"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 57",
         "book": "Yesaya",
         "verseNumber": "57"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 58",
         "book": "Yesaya",
         "verseNumber": "58"
@@ -3081,12 +3106,12 @@
         "verse": "Yesaya 61",
         "book": "Yesaya",
         "verseNumber": "61"
-    }, {
+    }],
+    [{
         "verse": "Yesaya 62",
         "book": "Yesaya",
         "verseNumber": "62"
-    }],
-    [{
+    }, {
         "verse": "Yesaya 63",
         "book": "Yesaya",
         "verseNumber": "63"
@@ -3102,12 +3127,12 @@
         "verse": "Yesaya 66",
         "book": "Yesaya",
         "verseNumber": "66"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 1",
         "book": "Yeremia",
         "verseNumber": "1"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 2",
         "book": "Yeremia",
         "verseNumber": "2"
@@ -3123,12 +3148,12 @@
         "verse": "Yeremia 5",
         "book": "Yeremia",
         "verseNumber": "5"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 6",
         "book": "Yeremia",
         "verseNumber": "6"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 7",
         "book": "Yeremia",
         "verseNumber": "7"
@@ -3144,12 +3169,12 @@
         "verse": "Yeremia 10",
         "book": "Yeremia",
         "verseNumber": "10"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 11",
         "book": "Yeremia",
         "verseNumber": "11"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 12",
         "book": "Yeremia",
         "verseNumber": "12"
@@ -3165,12 +3190,12 @@
         "verse": "Yeremia 15",
         "book": "Yeremia",
         "verseNumber": "15"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 16",
         "book": "Yeremia",
         "verseNumber": "16"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 17",
         "book": "Yeremia",
         "verseNumber": "17"
@@ -3186,12 +3211,12 @@
         "verse": "Yeremia 20",
         "book": "Yeremia",
         "verseNumber": "20"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 21",
         "book": "Yeremia",
         "verseNumber": "21"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 22",
         "book": "Yeremia",
         "verseNumber": "22"
@@ -3207,12 +3232,12 @@
         "verse": "Yeremia 25",
         "book": "Yeremia",
         "verseNumber": "25"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 26",
         "book": "Yeremia",
         "verseNumber": "26"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 27",
         "book": "Yeremia",
         "verseNumber": "27"
@@ -3228,12 +3253,12 @@
         "verse": "Yeremia 30",
         "book": "Yeremia",
         "verseNumber": "30"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 31",
         "book": "Yeremia",
         "verseNumber": "31"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 32",
         "book": "Yeremia",
         "verseNumber": "32"
@@ -3249,12 +3274,12 @@
         "verse": "Yeremia 35",
         "book": "Yeremia",
         "verseNumber": "35"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 36",
         "book": "Yeremia",
         "verseNumber": "36"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 37",
         "book": "Yeremia",
         "verseNumber": "37"
@@ -3270,12 +3295,12 @@
         "verse": "Yeremia 40",
         "book": "Yeremia",
         "verseNumber": "40"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 41",
         "book": "Yeremia",
         "verseNumber": "41"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 42",
         "book": "Yeremia",
         "verseNumber": "42"
@@ -3291,12 +3316,12 @@
         "verse": "Yeremia 45",
         "book": "Yeremia",
         "verseNumber": "45"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 46",
         "book": "Yeremia",
         "verseNumber": "46"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 47",
         "book": "Yeremia",
         "verseNumber": "47"
@@ -3312,12 +3337,12 @@
         "verse": "Yeremia 50",
         "book": "Yeremia",
         "verseNumber": "50"
-    }, {
+    }],
+    [{
         "verse": "Yeremia 51",
         "book": "Yeremia",
         "verseNumber": "51"
-    }],
-    [{
+    }, {
         "verse": "Yeremia 52",
         "book": "Yeremia",
         "verseNumber": "52"
@@ -3333,12 +3358,12 @@
         "verse": "Ratapan 3",
         "book": "Ratapan",
         "verseNumber": "3"
-    }, {
+    }],
+    [{
         "verse": "Ratapan 4",
         "book": "Ratapan",
         "verseNumber": "4"
-    }],
-    [{
+    }, {
         "verse": "Ratapan 5",
         "book": "Ratapan",
         "verseNumber": "5"
@@ -3354,12 +3379,12 @@
         "verse": "Yehezkiel 3",
         "book": "Yehezkiel",
         "verseNumber": "3"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 4",
         "book": "Yehezkiel",
         "verseNumber": "4"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 5",
         "book": "Yehezkiel",
         "verseNumber": "5"
@@ -3375,12 +3400,12 @@
         "verse": "Yehezkiel 8",
         "book": "Yehezkiel",
         "verseNumber": "8"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 9",
         "book": "Yehezkiel",
         "verseNumber": "9"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 10",
         "book": "Yehezkiel",
         "verseNumber": "10"
@@ -3396,12 +3421,12 @@
         "verse": "Yehezkiel 13",
         "book": "Yehezkiel",
         "verseNumber": "13"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 14",
         "book": "Yehezkiel",
         "verseNumber": "14"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 15",
         "book": "Yehezkiel",
         "verseNumber": "15"
@@ -3417,12 +3442,12 @@
         "verse": "Yehezkiel 18",
         "book": "Yehezkiel",
         "verseNumber": "18"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 19",
         "book": "Yehezkiel",
         "verseNumber": "19"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 20",
         "book": "Yehezkiel",
         "verseNumber": "20"
@@ -3438,12 +3463,12 @@
         "verse": "Yehezkiel 23",
         "book": "Yehezkiel",
         "verseNumber": "23"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 24",
         "book": "Yehezkiel",
         "verseNumber": "24"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 25",
         "book": "Yehezkiel",
         "verseNumber": "25"
@@ -3459,12 +3484,12 @@
         "verse": "Yehezkiel 28",
         "book": "Yehezkiel",
         "verseNumber": "28"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 29",
         "book": "Yehezkiel",
         "verseNumber": "29"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 30",
         "book": "Yehezkiel",
         "verseNumber": "30"
@@ -3480,12 +3505,12 @@
         "verse": "Yehezkiel 33",
         "book": "Yehezkiel",
         "verseNumber": "33"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 34",
         "book": "Yehezkiel",
         "verseNumber": "34"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 35",
         "book": "Yehezkiel",
         "verseNumber": "35"
@@ -3501,12 +3526,12 @@
         "verse": "Yehezkiel 38",
         "book": "Yehezkiel",
         "verseNumber": "38"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 39",
         "book": "Yehezkiel",
         "verseNumber": "39"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 40",
         "book": "Yehezkiel",
         "verseNumber": "40"
@@ -3522,12 +3547,12 @@
         "verse": "Yehezkiel 43",
         "book": "Yehezkiel",
         "verseNumber": "43"
-    }, {
+    }],
+    [{
         "verse": "Yehezkiel 44",
         "book": "Yehezkiel",
         "verseNumber": "44"
-    }],
-    [{
+    }, {
         "verse": "Yehezkiel 45",
         "book": "Yehezkiel",
         "verseNumber": "45"
@@ -3543,12 +3568,12 @@
         "verse": "Yehezkiel 48",
         "book": "Yehezkiel",
         "verseNumber": "48"
-    }, {
+    }],
+    [{
         "verse": "Daniel 1",
         "book": "Daniel",
         "verseNumber": "1"
-    }],
-    [{
+    }, {
         "verse": "Daniel 2",
         "book": "Daniel",
         "verseNumber": "2"
@@ -3564,12 +3589,12 @@
         "verse": "Daniel 5",
         "book": "Daniel",
         "verseNumber": "5"
-    }, {
+    }],
+    [{
         "verse": "Daniel 6",
         "book": "Daniel",
         "verseNumber": "6"
-    }],
-    [{
+    }, {
         "verse": "Daniel 7",
         "book": "Daniel",
         "verseNumber": "7"
@@ -3585,12 +3610,12 @@
         "verse": "Daniel 10",
         "book": "Daniel",
         "verseNumber": "10"
-    }, {
+    }],
+    [{
         "verse": "Daniel 11",
         "book": "Daniel",
         "verseNumber": "11"
-    }],
-    [{
+    }, {
         "verse": "Daniel 12",
         "book": "Daniel",
         "verseNumber": "12"
@@ -3606,12 +3631,12 @@
         "verse": "Hosea 3",
         "book": "Hosea",
         "verseNumber": "3"
-    }, {
+    }],
+    [{
         "verse": "Hosea 4",
         "book": "Hosea",
         "verseNumber": "4"
-    }],
-    [{
+    }, {
         "verse": "Hosea 5",
         "book": "Hosea",
         "verseNumber": "5"
@@ -3627,12 +3652,12 @@
         "verse": "Hosea 8",
         "book": "Hosea",
         "verseNumber": "8"
-    }, {
+    }],
+    [{
         "verse": "Hosea 9",
         "book": "Hosea",
         "verseNumber": "9"
-    }],
-    [{
+    }, {
         "verse": "Hosea 10",
         "book": "Hosea",
         "verseNumber": "10"
@@ -3648,12 +3673,12 @@
         "verse": "Hosea 13",
         "book": "Hosea",
         "verseNumber": "13"
-    }, {
+    }],
+    [{
         "verse": "Hosea 14",
         "book": "Hosea",
         "verseNumber": "14"
-    }],
-    [{
+    }, {
         "verse": "Yoel 1",
         "book": "Yoel",
         "verseNumber": "1"
@@ -3669,12 +3694,12 @@
         "verse": "Amos 1",
         "book": "Amos",
         "verseNumber": "1"
-    }, {
+    }],
+    [{
         "verse": "Amos 2",
         "book": "Amos",
         "verseNumber": "2"
-    }],
-    [{
+    }, {
         "verse": "Amos 3",
         "book": "Amos",
         "verseNumber": "3"
@@ -3690,12 +3715,12 @@
         "verse": "Amos 6",
         "book": "Amos",
         "verseNumber": "6"
-    }, {
+    }],
+    [{
         "verse": "Amos 7",
         "book": "Amos",
         "verseNumber": "7"
-    }],
-    [{
+    }, {
         "verse": "Amos 8",
         "book": "Amos",
         "verseNumber": "8"
@@ -3711,12 +3736,12 @@
         "verse": "Yunus 1",
         "book": "Yunus",
         "verseNumber": "1"
-    }, {
+    }],
+    [{
         "verse": "Yunus 2",
         "book": "Yunus",
         "verseNumber": "2"
-    }],
-    [{
+    }, {
         "verse": "Yunus 3",
         "book": "Yunus",
         "verseNumber": "3"
@@ -3732,12 +3757,12 @@
         "verse": "Mikha 2",
         "book": "Mikha",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Mikha 3",
         "book": "Mikha",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Mikha 4",
         "book": "Mikha",
         "verseNumber": "4"
@@ -3753,12 +3778,12 @@
         "verse": "Mikha 7",
         "book": "Mikha",
         "verseNumber": "7"
-    }, {
+    }],
+    [{
         "verse": "Nahum 1",
         "book": "Nahum",
         "verseNumber": "1"
-    }],
-    [{
+    }, {
         "verse": "Nahum 2",
         "book": "Nahum",
         "verseNumber": "2"
@@ -3774,12 +3799,12 @@
         "verse": "Habakuk 2",
         "book": "Habakuk",
         "verseNumber": "2"
-    }, {
+    }],
+    [{
         "verse": "Habakuk 3",
         "book": "Habakuk",
         "verseNumber": "3"
-    }],
-    [{
+    }, {
         "verse": "Zefanya 1",
         "book": "Zefanya",
         "verseNumber": "1"
@@ -3795,12 +3820,12 @@
         "verse": "Hagai 1",
         "book": "Hagai",
         "verseNumber": "1"
-    }, {
+    }],
+    [{
         "verse": "Hagai 2",
         "book": "Hagai",
         "verseNumber": "2"
-    }],
-    [{
+    }, {
         "verse": "Zakharia 1",
         "book": "Zakharia",
         "verseNumber": "1"
@@ -3816,12 +3841,12 @@
         "verse": "Zakharia 4",
         "book": "Zakharia",
         "verseNumber": "4"
-    }, {
+    }],
+    [{
         "verse": "Zakharia 5",
         "book": "Zakharia",
         "verseNumber": "5"
-    }],
-    [{
+    }, {
         "verse": "Zakharia 6",
         "book": "Zakharia",
         "verseNumber": "6"
@@ -3837,12 +3862,12 @@
         "verse": "Zakharia 9",
         "book": "Zakharia",
         "verseNumber": "9"
-    }, {
+    }],
+    [{
         "verse": "Zakharia 10",
         "book": "Zakharia",
         "verseNumber": "10"
-    }],
-    [{
+    }, {
         "verse": "Zakharia 11",
         "book": "Zakharia",
         "verseNumber": "11"
@@ -3858,12 +3883,12 @@
         "verse": "Zakharia 14",
         "book": "Zakharia",
         "verseNumber": "14"
-    }, {
+    }],
+    [{
         "verse": "Maleakhi 1",
         "book": "Maleakhi",
         "verseNumber": "1"
-    }],
-    [{
+    }, {
         "verse": "Maleakhi 2",
         "book": "Maleakhi",
         "verseNumber": "2"
