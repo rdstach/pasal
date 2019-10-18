@@ -1,5 +1,5 @@
 const fs = require('fs')
-const existingData = require('./TESTAMENTS/NEW-TESTAMENT.json')
+const existingData = require('./TESTAMENTS/OLD-TESTAMENT.json')
 
 const nameOfBook = process.argv[2]
 const totalOfVerse = (parseInt(process.argv[3]) + 1)
@@ -9,7 +9,7 @@ function showVerses (arrayOfStrings) {
     existingData.push(element)
   })
 
-  fs.writeFile('./TESTAMENTS/NEW-TESTAMENT.json', JSON.stringify(existingData), (err) => {
+  fs.writeFile('./TESTAMENTS/OLD-TESTAMENT.json', JSON.stringify(existingData), (err) => {
     console.log(err)
   })
   console.log(`${nameOfBook} done`)

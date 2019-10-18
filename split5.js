@@ -1,4 +1,4 @@
-const file = require('./TESTAMENTS/NEW-TESTAMENT.json')
+const file = require('./TESTAMENTS/OLD-TESTAMENT.json')
 
 function chunkArray (array, sizeOfTheChunkedArray) {
   const chunked = []
