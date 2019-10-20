@@ -13,9 +13,9 @@ function loopArray (object, index) {
 
   for (let key in bookString) {
     if (bookString.hasOwnProperty(key)) {
-      let currentBook = object.filter(currentObject => currentObject.book == key)[0]
+      let currentBook = object.find(currentObject => currentObject.book == key)
 
-      fullString.push(`${key} ${currentBook.verseNumber}${(bookString[key] == 1 || bookString[key] == bookString[key]) ? `` : `-${bookString[key]}`}`)
+      fullString.push(`${key} ${currentBook.verseNumber}${bookString[key] == 1 ? `` : (currentBook.verseNumber == bookString[key] ? `` : `-${bookString[key][0]}`)}`)
     }
   }
 
