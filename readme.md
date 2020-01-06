@@ -3,7 +3,7 @@
 `pasal` means chapter in Indonesian, this repository was a way for me to generate 5 bible chapters to read, daily.<br>
 This project is related to [https://github.com/drepram/bapa](https://github.com/drepram/bapa)
 
-Let me explains the directories and the files in this project.
+Let me explain the directories and the files in this project.
 
 ## Installing
 > First, we have to clone the project into our machine
