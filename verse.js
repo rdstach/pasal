@@ -21,7 +21,7 @@ function loopArray (object, index) {
 
   return totalString = {
     ...totalString,
-    [moment().set({'year': 2019, 'month': 6, 'date': 28}).add(index, 'days').format('DD-MM-YYYY')]: (fullString.join(', '))
+    [moment().set({'year': 2020, 'month': 8, 'date': 3}).add(index, 'days').format('DD-MM-YYYY')]: (fullString.join(', '))
   }
 }
 
