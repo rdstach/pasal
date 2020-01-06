@@ -3,7 +3,7 @@ const file = require('./TESTAMENTS/OLD-TESTAMENT.json')
 function chunkArray (array, sizeOfTheChunkedArray) {
   const chunked = []
 
-  for (let element of array) {
+  for (const element of array) {
     const last = chunked[chunked.length - 1]
 
     if (!last || last.length === sizeOfTheChunkedArray) {

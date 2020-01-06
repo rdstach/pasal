@@ -1,4 +1,4 @@
-let pasalHarian = {
+const pasalHarian = {
   '01-03-2020': 'Kejadian 1-5',
   '02-03-2020': 'Kejadian 6-10',
   '03-03-2020': 'Kejadian 11-15',

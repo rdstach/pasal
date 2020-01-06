@@ -16,7 +16,7 @@ function showVerses (arrayOfStrings) {
 }
 
 function loopString (nameOfBook, totalOfVerse) {
-  let arrayOfStrings = []
+  const arrayOfStrings = []
 
   for (let index = 1; index < totalOfVerse; index++) {
     arrayOfStrings.push({

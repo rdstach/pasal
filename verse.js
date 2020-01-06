@@ -5,23 +5,23 @@ let totalString = {}
 
 function loopArray (object, index) {
   let bookString = {}
-  let fullString = []
+  const fullString = []
 
   object.forEach(eachArray => {
     bookString = { ...bookString, [eachArray.book]: [eachArray.verseNumber] }
   })
 
-  for (let key in bookString) {
+  for (const key in bookString) {
     if (bookString.hasOwnProperty(key)) {
-      let currentBook = object.find(currentObject => currentObject.book == key)
+      const currentBook = object.find(currentObject => currentObject.book === key)
 
-      fullString.push(`${key} ${currentBook.verseNumber}${bookString[key] == 1 ? `` : (currentBook.verseNumber == bookString[key] ? `` : `-${bookString[key][0]}`)}`)
+      fullString.push(`${key} ${currentBook.verseNumber}${bookString[key] === 1 ? '' : (currentBook.verseNumber === bookString[key] ? '' : `-${bookString[key][0]}`)}`)
     }
   }
 
   return totalString = {
     ...totalString,
-    [moment().set({'year': 2020, 'month': 8, 'date': 3}).add(index, 'days').format('DD-MM-YYYY')]: (fullString.join(', '))
+    [moment().set({ year: 2020, month: 8, date: 3 }).add(index, 'days').format('DD-MM-YYYY')]: (fullString.join(', '))
   }
 }
 
