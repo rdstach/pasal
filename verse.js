@@ -15,7 +15,7 @@ function loopArray (object, index) {
     if (bookString.hasOwnProperty(key)) {
       const currentBook = object.find(currentObject => currentObject.book === key)
 
-      fullString.push(`${key} ${currentBook.verseNumber}${bookString[key] === 1 ? '' : (currentBook.verseNumber === bookString[key] ? '' : `-${bookString[key][0]}`)}`)
+      fullString.push(`${key} ${currentBook.verseNumber}${bookString[key] === '1' ? '' : (currentBook.verseNumber === bookString[key] ? '' : (bookString[key][0] === '1' ? '' : `-${bookString[key][0]}`))}`)
     }
   }
 
