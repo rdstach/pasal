@@ -60,5 +60,5 @@ We don't actually run this file, the only use of this file is to combine the rea
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
